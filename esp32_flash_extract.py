@@ -1,4 +1,8 @@
 #!/usr/bin/python
+#
+# created by Adam Laurie <adam@algroup.co.uk>
+# based on Josh's work at:
+# https://boredpentester.com/reversing-esp8266-firmware-part-4/
  
 import sys
 import struct
